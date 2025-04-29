@@ -24,7 +24,6 @@ Export notes to custom location as PDF File (using Apache PDFBox)
 
 Clean User Interface (built with Java Swing)
 
-Project Structure
 ![image](https://github.com/user-attachments/assets/56d8fb3a-6f26-4dae-a01f-62eb1f7d90f2)
 
 
