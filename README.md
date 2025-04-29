@@ -25,21 +25,8 @@ Export notes to custom location as PDF File (using Apache PDFBox)
 Clean User Interface (built with Java Swing)
 
 Project Structure
-FileNotesGUI/
-├── src/
-│   ├── model/
-│   │    └── Note.java
-│   ├── service/
-│   │    ├── NoteService.java
-│   │    └── PDFExporter.java
-│   └── ui/
-│        ├── MainWindow.java
-│        ├── CreateNoteWindow.java
-│        └── ViewNoteWindow.java
-├── notes/   <-- (Auto created when first note is saved)
-├── lib/     <-- (Add pdfbox-app-*.jar here)
-├── README.md
-└── App.java
+![image](https://github.com/user-attachments/assets/56d8fb3a-6f26-4dae-a01f-62eb1f7d90f2)
+
 
 
 Requirements
